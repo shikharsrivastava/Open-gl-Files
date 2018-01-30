@@ -1,5 +1,6 @@
 # OpenGl simulations
 This is a project I was building during my 1st year in college to learn modern openGL(3.3). 
+You can learn more about it from [learnopengl](https://learnopengl.com/)
 
 There are many files in this project which you can run and test yourself. These are the dependencies you need to get for liinux systems -
 * libglew-dev
